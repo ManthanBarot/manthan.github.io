@@ -1,0 +1,8 @@
+*{
+    scroll-behavior: smooth;
+}
+nav{
+    overflow: hidden;
+    float: right;
+    display: inline;
+}
